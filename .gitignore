@@ -1,0 +1,5 @@
+/nbproject/
+/data/
+!/data/agent/README.txt
+!/data/master/README.txt
+/.vagrant/
